@@ -28,9 +28,9 @@ El prototipo es un único archivo, `index.html`, sin dependencias ni instalació
 Guion sugerido para una sesión de prueba:
 
 1. En **Inicio**, define tus tres motivos.
-2. Entra a **Mi mes** y revisa el ciclo; prueba "Simula tu mayo" en la pestaña "Por semana".
+2. Entra a **Mi mes** y revisa el ciclo; prueba la pestaña **Simular** y mueve los gastos de mayo.
 3. Elige qué hacer con tu saldo positivo y confirma el aporte.
-4. Si te equivocas, usa **Cambiar mi decisión**. En **Perfil** puedes reiniciar el prototipo.
+4. Si te equivocas, usa **Deshacer mi decisión** (aparece en la pantalla de confirmación y en Mi mes). En **Perfil** puedes reiniciar el prototipo.
 
 ## Publicarlo con GitHub Pages
 
